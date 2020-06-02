@@ -1,0 +1,25 @@
+.top-left-space
+{
+    display: inline-block;
+    width: 10%
+}
+
+.plus-sign
+{
+    vertical-align: top;
+    display: inline-block;
+    width: 10%
+}
+
+.equals-sign
+{
+    vertical-align: top;
+    display: inline-block;
+    width: 5%
+}
+
+.input
+{
+    text-align: center;
+    width: 9%
+}
